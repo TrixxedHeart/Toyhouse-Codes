@@ -1,1 +1,1 @@
-a
+These are Toyhou.se codes I made for whoever to use. They are all under MIT so use them however you'd like! Credit is appreciated, not required.
