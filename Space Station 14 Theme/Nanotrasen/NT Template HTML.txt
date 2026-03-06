@@ -1,0 +1,91 @@
+<div style="background:#0e0e0e; color:#d0d0d0; font-family:monospace; border:2px solid #00b8d4; border-radius:6px; padding:20px; max-width:700px;   margin-left: auto;
+  margin-right: auto">
+  <!-- NANOTRASEN LOGO + HEADER -->
+  <div style="display:flex; align-items:center; gap:15px; margin-bottom:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Nanotrasen_Logo.png" style="height:48px;" alt="Nanotrasen Logo">
+    <div>
+      <h1 style="color:#00b8d4; font-size:1.5em; margin:0; margin-left:5px;">NANOTRASEN PERSONNEL FILE</h1>
+      <p style="color:#f00; font-size:0.9em; margin:0; margin-left:5px;">CENTCOM CLASSIFIED FILE – DO NOT REPRODUCE</p>
+    </div>
+  </div>
+
+  <!-- TERMINAL HEADER -->
+  <p style="color:#888; font-size:0.9em;">
+    ACCESS LEVEL: <span style="color:#f00;">CLASSIFIED</span><br>
+    TERMINAL LOG: CENTCOM UPLINK TERMINAL / NODE-14<br>
+  </p>
+
+  <hr style="border-color:#00b8d4; margin:15px 0;">
+
+  <!-- PERSONNEL DETAILS -->
+  <h2 style="color:#00b8d4; font-size:1.1em;">PERSONNEL DETAILS</h2>
+
+  <div style="display:flex; flex-wrap:wrap; gap:20px;">
+    <!-- CHARACTER ICON -->
+    <div style="flex:0 0 120px;">
+        <!-- Copy an image link to your character's icon below -->
+      <img src="IMAGE LINK HERE" style="width:120px; height:120px; object-fit:cover; border:1px solid #00b8d4; border-radius:4px;" alt="Character Icon">
+    </div>
+
+    <!-- CHARACTER INFO -->
+    <!-- Left Column -->
+  <div style="flex: 1; margin-left:10px;">
+        <ul style="list-style:none; padding-left:0; line-height:1.5; margin:0;">
+          <li><strong>Name:</strong> NAME HERE</li>
+          <li><strong>Alias:</strong> ALIAS HERE</li>
+          <li><strong>Species:</strong> SPECIES HERE</li>
+          <li><strong>Age:</strong> AGE HERE</li>
+          <li><strong>Birthday:</strong> BIRTHDAY HERE</li>
+          <li><strong>Pronouns:</strong> PRONOUNS HERE</li>
+        </ul>
+      </div>
+  
+      <!-- Right Column -->
+      <div style="flex: 1;">
+        <ul style="list-style:none; padding-left:0; line-height:1.5; margin:0;">
+          <li><strong>Department:</strong> DEPARTMENT HERE</li>
+          <li><strong>Position:</strong> JOB HERE</li>
+          <li><strong>Frequent Sectors:</strong> SERVER HERE</li>
+          <li><strong>Status:</strong> STATUS HERE</li>
+        </ul>
+      </div>
+  </div>
+  
+    <!-- CHARACTER BODY -->
+    <!-- You can change/remove/add these sections to whatever you want, have fun be silly ♥ -->
+  <hr style="border-color:#00b8d4; margin:15px 0;">
+
+  <h2 style="color:#00b8d4; font-size:1.1em;">PSYCH EVALUATION</h2>
+  <p>
+    WRITE HERE
+  </p>
+  
+    <hr style="border-color:#00b8d4; margin:15px 0;">
+
+  <h2 style="color:#00b8d4; font-size:1.1em;">PHYSICAL STATUS</h2>
+  <p>
+    WRITE HERE
+  </p>
+
+  <hr style="border-color:#00b8d4; margin:15px 0;">
+
+  <h2 style="color:#00b8d4; font-size:1.1em;">SERVICE RECORD - SUMMARY</h2>
+  <p>
+    WRITE HERE
+  </p>
+
+  <hr style="border-color:#00b8d4; margin:15px 0;">
+
+  <h2 style="color:#00b8d4; font-size:1.1em;">SUPERVISOR NOTES</h2>
+  <p>
+    WRITE HERE
+  </p>
+
+  <hr style="border-color:#00b8d4; margin:15px 0;">
+
+  <p style="color:#888; font-size:0.85em; text-align:right;">
+    > ACCESS LOGGED<br>
+    > FILE MAINTAINED BY CENTRAL COMMAND – PERSONNEL OPS DIVISION<br>
+    > UNAUTHORIZED DUPLICATION OR DISSEMINATION IS PUNISHABLE UNDER NT PROTOCOL-5 / SECURESPACE DIRECTIVE 4.17(c)
+  </p>
+</div>
